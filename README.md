@@ -3,15 +3,19 @@
 ---
 
 ## Table of Contents
-- Repository Contents
-- Task Overview
-- Technical Specifications
-- Circuit Connection
-- Code Logic
-- Simulation Demo
+- [Repository Contents](#repository-contents)
+- [Task Overview](#task-overview)
+- [Technical Specifications](#technical-specifications)
+- [Circuit Connection](#circuit-connection)
+- [Code Logic](#code-logic)
+- [Simulation Demo](#simulation-demo)
 
 ---
 
+## Repository Contents
+* **`robotic_dog.scad`** – The primary OpenSCAD source code containing the parameterized geometric design.
+* **`robotic_dog.stl`** – The exported 3D model file ready for 3D printing or physics simulation.
+* **`README.md`** – Main documentation file explaining the design architecture and mechanics.
 
 ---
 
